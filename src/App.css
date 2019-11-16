@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  background:radial-gradient(aqua,black);
 }
 
 .App-logo {
@@ -20,4 +19,9 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+h1 {
+  font-family: Bigelo Rules;
+  font-size:72px
 }
