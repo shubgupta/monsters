@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github.io/monsters/static/css/main.8ccfe367.chunk.css",
+    "main.js": "/github.io/monsters/static/js/main.34ebadb8.chunk.js",
+    "main.js.map": "/github.io/monsters/static/js/main.34ebadb8.chunk.js.map",
+    "runtime-main.js": "/github.io/monsters/static/js/runtime-main.c56de428.js",
+    "runtime-main.js.map": "/github.io/monsters/static/js/runtime-main.c56de428.js.map",
+    "static/css/2.833dd627.chunk.css": "/github.io/monsters/static/css/2.833dd627.chunk.css",
+    "static/js/2.027105a0.chunk.js": "/github.io/monsters/static/js/2.027105a0.chunk.js",
+    "static/js/2.027105a0.chunk.js.map": "/github.io/monsters/static/js/2.027105a0.chunk.js.map",
+    "index.html": "/github.io/monsters/index.html",
+    "precache-manifest.6f0fa536f74f56367799c4988d74e938.js": "/github.io/monsters/precache-manifest.6f0fa536f74f56367799c4988d74e938.js",
+    "service-worker.js": "/github.io/monsters/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/github.io/monsters/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.8ccfe367.chunk.css.map": "/github.io/monsters/static/css/main.8ccfe367.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c56de428.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.027105a0.chunk.js",
+    "static/css/main.8ccfe367.chunk.css",
+    "static/js/main.34ebadb8.chunk.js"
+  ]
+}
